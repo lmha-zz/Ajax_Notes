@@ -1,0 +1,28 @@
+input[readonly] {
+	border:none;
+}
+textarea[readonly] {
+	border:none;
+}
+.new_desc {
+	margin: 0 0 10px 0;
+	resize:none;
+}
+.error {
+	color:red;
+}
+.noteWrapper {
+	padding: 20px;
+	border-bottom: 1px solid gainsboro;
+	margin-bottom: 20px;
+}
+.noteWrapper textarea {
+	resize:none;
+	padding:none; !important
+}
+.formWrapper {
+	padding: 0 20px 0 20px;
+}
+.formWrapper input {
+	margin: 0 0 10px 0;
+}
